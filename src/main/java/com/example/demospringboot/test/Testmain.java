@@ -7,6 +7,7 @@ package com.example.demospringboot.test;
 public class Testmain {
     public static void main(String[] args) {
         System.out.println("aaa");
+        System.out.println("bbbb");
         System.out.println("qwe123");
     }
 }
