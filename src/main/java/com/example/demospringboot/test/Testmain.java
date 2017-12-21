@@ -9,5 +9,6 @@ public class Testmain {
         System.out.println("aaa");
         System.out.println("bbbb");
         System.out.println("qwe123");
+        System.out.println("4");
     }
 }
