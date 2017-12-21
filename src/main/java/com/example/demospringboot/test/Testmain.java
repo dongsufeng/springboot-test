@@ -10,5 +10,6 @@ public class Testmain {
         System.out.println("bb3b");
         System.out.println("qwe123");
         System.out.println("4");
+        System.out.println("5");
     }
 }
